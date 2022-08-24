@@ -10,4 +10,5 @@ func main() {
 	fmt.Println(Eval.Area())
 	fmt.Println(Eval.Timenow())
 	fmt.Println("hello")
+	fmt.Println(Eval.Scan)
 }
