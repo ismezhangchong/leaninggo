@@ -6,10 +6,9 @@ import (
 )
 
 func main() {
-	fmt.Println("谢谢大佬")
+	fmt.Println("何通250........")
 	fmt.Println(Eval.Area())
 	fmt.Println(Eval.Timenow())
-	fmt.Println("今天好凉快")
 }
 
 /*package main 名为main的包

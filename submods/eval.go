@@ -23,4 +23,7 @@ func Timenow() int {
 	return time
 }
 
-// this test
+func main() {
+	fmt.Println("今天好凉快")
+
+}
